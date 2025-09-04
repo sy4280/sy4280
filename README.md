@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--> 
 
-
-#about me 
-- 한신대학교 25학번 aisw 계열 장수영 입니다 
+about me  
+ 한신대학교 25학번 aisw 계열 장수영 입니다 
